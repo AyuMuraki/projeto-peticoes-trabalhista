@@ -208,7 +208,7 @@ npm init -y
 **4️⃣ Executar o script.**
 
 ```
-node filtrarPeticoes.js
+npm run dev
 ```
 
 **⚡Resultado esperado.**
