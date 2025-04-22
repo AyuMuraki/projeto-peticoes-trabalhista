@@ -1,0 +1,12 @@
+{
+  "name": "projeto-peticoes-trabalhista",
+  "version": "1.0.0",
+  "main": "PeticaoTrabalhista.js",
+  "scripts": {
+    "dev": "node --watch filtrarPeticoes.js"
+  },
+  "keywords": [],
+  "author": " Ayumi Muraki",
+  "license": "ISC",
+  "description": "Modelos e Classes com Petições Trabalhistas"
+}
